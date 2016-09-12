@@ -13,3 +13,5 @@ I'm tired. Because I hate use English.
 
 
 어디한번 또다른 브랜치 얍
+
+이번엔 브랜치를 삭제해볼게요
