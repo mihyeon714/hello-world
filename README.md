@@ -10,3 +10,6 @@ I'm tired. Because I hate use English.
 
 한번더 수정해보려려구
 브랜치라는 개념을 이해하는 중이다
+
+
+어디한번 또다른 브랜치 얍
